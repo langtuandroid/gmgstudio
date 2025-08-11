@@ -2,5 +2,8 @@
 /robots.txt   /robots.txt   200
 /sitemap.xml  /sitemap.xml  200
 
-# catch-all cho SPA, không áp dụng với file có phần mở rộng
-/*  /index.html  200  !.*
+# Phục vụ file tĩnh bình thường (bất kỳ đuôi mở rộng nào)
+  /:filename.:ext  /:filename.:ext  200
+
+# catch-all cho SPA, exclude tất cả đường dẫn có dấu chấm (file tĩnh)
+  /*  /index.html  200  !.*
