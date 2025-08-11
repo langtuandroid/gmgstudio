@@ -3,5 +3,8 @@
 /sitemap.xml     /sitemap.xml     200
 /sitemap.txt     /sitemap.txt     200
 
+# Ngoại lệ cho tất cả các file có phần mở rộng (CSS, JS, hình ảnh, v.v.)
+/:filename.:ext  /:filename.:ext  200
+
 # SPA catch-all
 /*               /index.html      200
