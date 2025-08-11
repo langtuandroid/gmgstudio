@@ -7,4 +7,5 @@
 /:filename.:ext  /:filename.:ext  200
 
 # SPA catch-all
+
 /*               /index.html      200
