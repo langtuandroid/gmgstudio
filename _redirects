@@ -13,4 +13,4 @@
 /:filename.:ext  /:filename.:ext  200
 
 # Catch-all redirect cho SPA React (exclude tất cả URL có dấu chấm - tức file tĩnh)
-/*  /index.html  200  !.*
+/*  /index.html  200
