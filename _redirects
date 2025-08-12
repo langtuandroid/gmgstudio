@@ -8,9 +8,6 @@
 /*.xml   /:splat  200
 /*.json  /:splat  200
 
-# Phục vụ file tĩnh có đuôi mở rộng (css, js, png, jpg, ...)
-# Không cần loại trừ nữa vì đã có catch-all exclude dấu chấm
-/:filename.:ext  /:filename.:ext  200
 
 # Catch-all redirect cho SPA React (exclude tất cả URL có dấu chấm - tức file tĩnh)
 /*  /index.html  200
