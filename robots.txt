@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://play.gmg-studio.com/sitemap.xml
+Sitemap: https://play.gmg-studio.com/sitemap.xml.gz
