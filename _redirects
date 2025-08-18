@@ -11,3 +11,4 @@
 
 # Catch-all redirect cho SPA React (bắt tất cả URL không chứa dấu chấm)
 /*              /index.html     200
+https://play.gmg-studio.com/*   https://gmg-studio.com/:splat   301!
