@@ -12,8 +12,5 @@
 https://play.gmg-studio.com/*   https://gmg-studio.com/:splat   301!
 https://www.play.gmg-studio.com/*   https://www.gmg-studio.com/:splat   301!
 
-/game/:id        /share/:id.html    200
-/game/:id/:slug  /share/:id.html    200
-
 # Catch-all redirect cho SPA React (bắt tất cả URL không chứa dấu chấm)
 /*              /index.html     200
