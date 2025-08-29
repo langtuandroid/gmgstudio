@@ -1,8 +1,4 @@
-
 User-agent: *
 Allow: /
-Sitemap: https://gmg-studio.com/sitemap.xml
-Sitemap: https://gmg-studio.com/sitemap.xml.gz
-
-User-agent: Google-adstxt
-Disallow:
+Sitemap: https://gmg-studio.com/sitemap-index.xml
+Sitemap: https://gmg-studio.com/sitemap-index.xml.gz
