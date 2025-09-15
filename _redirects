@@ -460,9 +460,6 @@ https://play.gmg-studio.com/game/501/ohio-fortnite https://gmg-studio.com/play/o
 
 
 
-https://play.gmg-studio.com/*   https://gmg-studio.com/:splat   301!
-https://www.play.gmg-studio.com/*   https://www.gmg-studio.com/:splat   301!
-
 
 
 /game/550/goalio-unblocked-games /play/goalio-unblocked-550  301
@@ -1791,6 +1788,11 @@ https://www.play.gmg-studio.com/*   https://www.gmg-studio.com/:splat   301!
 /play/499/gladihoppers-freebie-games /play/gladihoppers-unblocked-499 301
 /play/500/glitch-dash-classroom-games-multiplayer-online /play/glitch-dash-unblocked-500 301
 /play/501/ohio-fortnite-cool-math-games /play/ohio-fortnite-unblocked-501 301
+
+
+https://play.gmg-studio.com/*   https://gmg-studio.com/:splat   301!
+https://www.play.gmg-studio.com/*   https://www.gmg-studio.com/:splat   301!
+
 
 /share/:id    /share/:id/    301
 
