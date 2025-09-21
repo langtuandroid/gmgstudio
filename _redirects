@@ -14,7 +14,10 @@
 /*.webp      /:splat          200
 /*.png       /:splat          200
 /*.jpg       /:splat          200
-
+/dmca.html   /dmca.html   200
+/policy.html   /policy.html   200
+/terms.html   /terms.html   200
+/policy.html   /policy.html   200
 
 
 https://play.gmg-studio.com/game/550/goalio https://gmg-studio.com/play/goalio-unblocked-550 301

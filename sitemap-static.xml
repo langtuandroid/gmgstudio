@@ -4,47 +4,56 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
   <loc>https://gmg-studio.com/</loc>
-  <changefreq>yearly</changefreq>
+  <lastmod>2025-09-21T01:16:52.477Z</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
   <loc>https://gmg-studio.com/new</loc>
-  <changefreq>yearly</changefreq>
+  <lastmod>2025-09-21T01:16:52.477Z</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
   <loc>https://gmg-studio.com/trending</loc>
-  <changefreq>yearly</changefreq>
+  <lastmod>2025-09-21T01:16:52.477Z</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
   <loc>https://gmg-studio.com/recent</loc>
-  <changefreq>yearly</changefreq>
+  <lastmod>2025-09-21T01:16:52.477Z</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
   <loc>https://gmg-studio.com/settings</loc>
-  <changefreq>yearly</changefreq>
+  <lastmod>2025-09-21T01:16:52.477Z</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
   <loc>https://gmg-studio.com/cookies</loc>
-  <changefreq>yearly</changefreq>
+  <lastmod>2025-09-21T01:16:52.477Z</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
   <loc>https://gmg-studio.com/policy</loc>
-  <changefreq>yearly</changefreq>
+  <lastmod>2025-09-21T01:16:52.477Z</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
   <loc>https://gmg-studio.com/terms</loc>
-  <changefreq>yearly</changefreq>
+  <lastmod>2025-09-21T01:16:52.477Z</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
   <loc>https://gmg-studio.com/404</loc>
-  <changefreq>yearly</changefreq>
+  <lastmod>2025-09-21T01:16:52.477Z</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.8</priority>
 </url>
 </urlset>
