@@ -29,7 +29,17 @@
     <script type="application/ld+json">
       {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://gmg-studio.com/#organization","name":"GmG Studio","url":"https://gmg-studio.com/"},{"@type":"WebSite","@id":"https://gmg-studio.com/#website","url":"https://gmg-studio.com/","name":"Unity Control","publisher":{"@id":"https://gmg-studio.com/#organization"}},{"@type":"SoftwareApplication","@id":"https://gmg-studio.com/#software","name":"Unity Control","alternateName":"UCP","applicationCategory":"DeveloperApplication","operatingSystem":"macOS, Windows, Linux","url":"https://gmg-studio.com/","description":"A token-efficient Unity Editor MCP for AI coding agents, with project indexing and semantic C# graphs.","publisher":{"@id":"https://gmg-studio.com/#organization"}}]}
     </script>
-    <script>document.documentElement.classList.add("js")</script>
+    <script>
+      document.documentElement.classList.add("js");
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+          navigator.serviceWorker.getRegistrations().then((registrations) =>
+            Promise.all(registrations.map((registration) => registration.unregister())),
+          );
+          caches.keys().then((keys) => Promise.all(keys.map((key) => caches.delete(key))));
+        });
+      }
+    </script>
     <script type="module" crossorigin src="/assets/index-BJTpb8zY.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/style-GEbmCy-f.css">
   </head>
