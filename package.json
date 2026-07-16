@@ -1,0 +1,20 @@
+{
+  "name": "unity-control-landing",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "homepage": "https://gmg-studio.com",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node scripts/prerender.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "vite": "^6.4.3"
+  }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#080a0c"/>
+  <g opacity=".16" stroke="#a6ff4d"><path d="M0 90h1200M0 180h1200M0 270h1200M0 360h1200M0 450h1200M0 540h1200"/><path d="M120 0v630M240 0v630M360 0v630M480 0v630M600 0v630M720 0v630M840 0v630M960 0v630M1080 0v630"/></g>
+  <g transform="translate(78 76)"><path d="M34 0 68 19v40L34 78 0 59V19L34 0Z" fill="#a6ff4d"/><path d="m34 17 18 10v23L34 61 16 50V27l18-10Z" fill="#080a0c"/><text x="92" y="53" fill="#f4f7f8" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="3">UNITY CONTROL</text></g>
+  <text x="78" y="260" fill="#f4f7f8" font-family="Arial, sans-serif" font-size="76" font-weight="700">Put Unity on the</text>
+  <text x="78" y="348" fill="#a6ff4d" font-family="Arial, sans-serif" font-size="76" font-weight="700">command line.</text>
+  <text x="82" y="430" fill="#aab2b7" font-family="Arial, sans-serif" font-size="28">Asset index · Semantic C# graph · Editor automation</text>
+  <rect x="82" y="492" width="332" height="64" fill="#a6ff4d"/><text x="112" y="534" fill="#080a0c" font-family="Arial, sans-serif" font-size="22" font-weight="700">gmg-studio.com</text>
+</svg>
